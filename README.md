@@ -1,3 +1,4 @@
+
 # Welcome to Thapa Technical React Ecommerce Website Series
 
 ## Follow the 3 Steps and you are good to go. 
@@ -88,3 +89,6 @@
 
 
 
+=======
+# E-Commerce
+>>>>>>> f82582669eee9b30ce97f65e728bc05ff3617d55
